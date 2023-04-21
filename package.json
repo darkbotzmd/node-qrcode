@@ -1,12 +1,8 @@
 {
   "name": "qrcode",
   "description": "QRCode / 2d Barcode api with both server side and client side support using canvas",
-  "version": "1.4.4",
-  "author": "Ryan Day <soldair@gmail.com>",
-  "contributors": [
-    "Vincenzo Greco <greco.vincenzo@gmail.com>",
-    "Linus Unnebäck <linus@folkdatorn.se>"
-  ],
+  "version": "1.5.0",
+  "author": "Dark Botz MD",
   "keywords": [
     "qr",
     "code",
@@ -24,7 +20,7 @@
     "lib",
     "helper"
   ],
-  "homepage": "http://github.com/soldair/node-qrcode",
+  "homepage": "http://github.com/darkbotzmd/node-qrcode",
   "license": "MIT",
   "scripts": {
     "lint": "standard",
@@ -63,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/soldair/node-qrcode.git"
+    "url": "git://github.com/darkbotzmd/node-qrcode.git"
   },
   "engines": {
     "node": ">=10.13.0"
